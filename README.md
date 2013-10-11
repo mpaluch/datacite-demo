@@ -6,7 +6,7 @@ Small project to demonstrate the functionalities of the various [DataCite](http:
 Demonstrates:
 =============
 DataCite Metadata Store API (/doi, /metadata, and /media resources) [http://mds.datacite.org]    
-DataSite Search API [http://search.datacite.org]  
+DataCite Search API [http://search.datacite.org]  
 DataCite OAI-PMH Provider [http://oai.datacite.org]  
 DataCite Content Resolver [http://data.datacite.org]  
 CrossCite DOI Content Negotiation [http://www.crosscite.org/cn/]  
