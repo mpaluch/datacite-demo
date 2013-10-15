@@ -27,7 +27,7 @@ public class PostMetadata {
 			request.setUsername(USERNAME);
 			request.setPassword(PASSWORD);
 			
-			request.setContentType("text/plain;charset=UTF-8");
+			request.setContentType("application/xml;charset=UTF-8");
 			request.setBody(requestBody);
 			
 			print(request.toString());
